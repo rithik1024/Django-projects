@@ -1,0 +1,16 @@
+body,html{
+    height: 100%;
+}
+*{
+    background-color: rgb(27, 60, 48);
+}
+.tab{
+    text-align: center;
+    background-color: rgb(18, 65, 65);
+    width: 80%;
+    height:100%;
+    position: relative;
+    left: 10%;
+    color: white;
+
+}

@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(228, 228, 228);
+    color: rgb(33, 35, 34);
+}
+.title{ 
+    text-align: center;
+}
+.tab{
+    border:solid 2px;
+}
+.heading{
+    text-align: center;
+}
+.form-container{
+    text-align: center;
+}
+.lab{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    margin-left:350px;
+    column-gap: 20px;
+}
+h1 a{
+    text-decoration:none;
+}
